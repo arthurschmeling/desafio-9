@@ -1,9 +1,9 @@
-package javaapplication6;
+package javaapplication125;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class JavaApplication6 {
+public class JavaApplication125 {
 
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
